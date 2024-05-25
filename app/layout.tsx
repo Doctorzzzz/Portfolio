@@ -8,7 +8,7 @@ import ContactFooter from "./components/contact-footer";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Shreyash Wadmalwar",
+  title: "Vinod Kumar",
   description: "Portfolio Home Page",
 };
 
